@@ -13,7 +13,6 @@ df = pd.read_csv('Downloads/diabetes.csv')
 df.plot(kind = 'Box' , figsize = (20,10))
 plt.show()
 
-
 # In[18]:
 
 
