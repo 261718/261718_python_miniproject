@@ -20,7 +20,6 @@ df = df[df['SkinThickness'] < 80]
 df = df[df['Insulin'] <= 600]
 print(df.shape)
 
-
 # In[19]:
 
 
